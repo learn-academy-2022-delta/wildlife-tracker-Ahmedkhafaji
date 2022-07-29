@@ -42,3 +42,6 @@ class AnimalsController < ApplicationController
     params.require(:animal).permit(:name, :binomial)
   end
 end
+
+
+# tes test 
